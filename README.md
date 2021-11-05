@@ -30,11 +30,12 @@ Users should be able to:
 
 ### Screenshot
 We have uploaded the screenshots to the folder named "screenshots" in GitHub.
-1.jpeg
-2.jpeg
-3.jpeg
-4.jpeg
-5.jpeg
+![]()
+![]()
+![]()
+![]()
+![]()
+
 
 
 
@@ -98,8 +99,10 @@ this.addEventListener("DOMContentLoaded", () =>{ -For adding the function
 
 We would like to focus more on JavaScript to make the website more flexible for the users.
 ### Useful resources
+(https://www.w3schools.com/howto/howto_js_accordion.asp) - This helped us learn more about creating accordion cards using JS and HTML
+(https://www.w3schools.com/jsref/prop_element_classlist.asp) - This gave us an additional information about HTML DOM classList
 
-## Author
+## Authors
 
 - Abubakirova Manshuk Group IT1-2016
 - Nuranov Atazhan Group IT1-2016
