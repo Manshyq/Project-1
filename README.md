@@ -30,11 +30,11 @@ Users should be able to:
 
 ### Screenshot
 We have uploaded the screenshots to the folder named "screenshots" in GitHub.
-![]()
-![]()
-![]()
-![]()
-![]()
+![](https://github.com/Manshyq/Project-1/blob/main/screenshots/1.jpeg)
+![](https://github.com/Manshyq/Project-1/blob/main/screenshots/2.jpeg)
+![](https://github.com/Manshyq/Project-1/blob/main/screenshots/3.jpeg)
+![](https://github.com/Manshyq/Project-1/blob/main/screenshots/4.jpeg)
+![](https://github.com/Manshyq/Project-1/blob/main/screenshots/4.jpeg)
 
 
 
